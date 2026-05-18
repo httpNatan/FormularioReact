@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 //componentes
 import Formulario from './componentes/Formulario'
 
