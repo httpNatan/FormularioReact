@@ -11,7 +11,7 @@
   font-size: 20px;
   font-family: "Rubik", sans-serif;
   border: 1px solid black;
-  width: 400px;
+  width: 1200px;
   background-color: rgba(34, 34, 107, 0.863);
   border-radius: 10px;
   color: white;
@@ -38,4 +38,21 @@ input{
   padding: 5px;
   width: 200px;
   border-radius: 10px;
+}
+
+button{
+  padding: 5px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: rgb(4, 4, 36);
+  color: white;
+  font-size: 15px;
+  font-family: "Rubik", sans-serif;
+}
+
+h1{
+  color: white;
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+  margin: 10px;
 }

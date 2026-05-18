@@ -7,7 +7,6 @@ function App() {
 
   return (
     <>
-      <h1>formulario react</h1>
       <Formulario/>
     </>
   )
